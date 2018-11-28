@@ -1,7 +1,7 @@
 # Machine-Learning
 
-Linear Regression - implementation of linear regression for two features and for multiple features
+Linear_models__gradient_descent - linear regression, validation, binary linear classification, gradient descent, stochatic gradietn descent(Momentum method, Adagrad, RMSprop)
 
 Segmentation - images segmenation using k-means
 
-Mnist - neural network to predict handwritten digits
+Mnist - neural network to predict handwritten digits using tensorflow
