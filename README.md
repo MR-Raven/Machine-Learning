@@ -4,4 +4,4 @@ Linear_models__gradient_descent - linear regression, validation, binary linear c
 
 Segmentation - images segmenation using k-means
 
-Mnist - neural network to predict handwritten digits using tensorflow
+Mnist - prediction of handwritten digits using tensorflow
