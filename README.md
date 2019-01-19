@@ -1,4 +1,4 @@
-# Machine-Learnin
+# Machine-Learning
 
 Segmentation - images segmenation using k-means
 
